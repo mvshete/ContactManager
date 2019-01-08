@@ -8,7 +8,7 @@ Contact Manager Api
 
 # Steps
 * Clone the Project
-* Open the project in visual studio in admin mode/ host ContactsWebApi in IIS
+* Open the project in visual studio in admin mode
 * Execute the script.sql file on sql server
 * change the connection string in web.config in ContactsWebApi
 
